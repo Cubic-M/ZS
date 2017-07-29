@@ -19,12 +19,14 @@ gem "jekyll", "3.3.0"
 # gem "github-pages", group: :jekyll_plugins
 #gem "jekyll-assets"
 # If you have any plugins, put them here!
+
 group :jekyll_plugins do
 
    gem "jekyll-feed", "~> 0.6"
    gem "breakpoint"
    gem "therubyracer"
    gem 'jekyll-autoprefixer'
+
 
 
 end
